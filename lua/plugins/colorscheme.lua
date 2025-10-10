@@ -1,11 +1,11 @@
 return {
-  { "slugbyte/lackluster.nvim", lazy = false, priority = 1000 },
-  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  { "catppuccin/nvim" },
+  { "slugbyte/lackluster.nvim" },
+  { "metalelf0/black-metal-theme-neovim" },
   {
     "LazyVim/LazyVim",
     opts = {
-      --  colorscheme = "lackluster-hack",
-      colorscheme = "catppuccin-mocha",
+      colorscheme = "immortal",
     },
   },
 }
