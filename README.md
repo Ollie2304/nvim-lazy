@@ -1,3 +1,3 @@
 # Neovim
 
-2025 neovim config refresh
+vanilla vim [here](https://github.com/olliebdev/vim)
