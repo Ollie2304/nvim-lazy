@@ -1,3 +1,3 @@
 # Neovim
 
-vanilla vim [here](https://github.com/0x4F42/vim)
+vanilla vim [here](https://github.com/Ollie2304/vim)
